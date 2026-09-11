@@ -8,7 +8,7 @@
   let words = [];
 
   function showHome() {
-    pageTitle.textContent = 'Französisch lernen';
+    pageTitle.textContent = 'Französisch "franznoahish" lernen';
     app.innerHTML = `
       <div class="home-grid">
         ${MODES.map((m, i) => `

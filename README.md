@@ -1,4 +1,4 @@
-# 🇫🇷 Französisch lernen
+# 🇫🇷 Französisch "franznoahish" lernen
 
 A gamified French vocabulary trainer for a German-speaking child. Four practice
 modes, stars/streak scoring, confetti, and sound — all as a single static site
