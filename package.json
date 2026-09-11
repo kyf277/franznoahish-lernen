@@ -1,0 +1,14 @@
+{
+  "name": "french-vocab-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gamified French vocabulary trainer for a German-speaking child",
+  "scripts": {
+    "dev": "wrangler pages dev public --port 8788",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.127.1"
+  }
+}

@@ -1,0 +1,19 @@
+[
+  { "id": "acheter", "french": "acheter", "german": "etw. kaufen", "sentence": "On pourrait ___ un cadeau.", "answer": "acheter" },
+  { "id": "comme", "french": "comme", "german": "als", "sentence": "On pourrait acheter ça ___ cadeau.", "answer": "comme" },
+  { "id": "une-idee", "french": "une idée", "german": "eine Idee", "sentence": "J'ai une ___!", "answer": "idée" },
+  { "id": "gateau", "french": "le gâteau", "german": "der Kuchen, auch der Keks", "sentence": "Le ___ est délicieux.", "answer": "gâteau" },
+  { "id": "gateau-chocolat", "french": "le gâteau au chocolat", "german": "der Schokoladenkuchen", "sentence": "Pour mon anniversaire, je veux un ___.", "answer": "gâteau au chocolat" },
+  { "id": "maillot", "french": "le maillot", "german": "das Trikot, auch der Badeanzug/Badehose", "sentence": "Il porte son ___ pour jouer au foot.", "answer": "maillot" },
+  { "id": "ca-coute-combien", "french": "Ça coûte combien?", "german": "Wie viel kostet das?", "sentence": "Ça coûte ___?", "answer": "combien" },
+  { "id": "couter", "french": "coûter", "german": "kosten", "sentence": "Tu sais combien ça va ___?", "answer": "coûter" },
+  { "id": "combien", "french": "combien", "german": "wie viel…?", "sentence": "___ ça coûte?", "answer": "combien" },
+  { "id": "un-euro", "french": "un euro", "german": "ein Euro", "sentence": "Le maillot coûte un ___.", "answer": "euro" },
+  { "id": "cest-trop-cher", "french": "C'est trop cher!", "german": "Das ist teuer!", "sentence": "C'est trop ___!", "answer": "cher" },
+  { "id": "trop", "french": "trop", "german": "zu, zu sehr", "sentence": "C'est ___ cher pour moi.", "answer": "trop" },
+  { "id": "je-trouve-que", "french": "je trouve que", "german": "ich finde, dass", "sentence": "___ c'est une bonne idée.", "answer": "je trouve que" },
+  { "id": "trouver-le-cadeau", "french": "trouver le cadeau", "german": "das Geschenk finden", "sentence": "Est-ce que tu peux ___?", "answer": "trouver le cadeau" },
+  { "id": "appeler-lea", "french": "appeler Léa", "german": "Léa anrufen", "sentence": "Je vais ___ ce soir.", "answer": "appeler Léa" },
+  { "id": "peut-etre", "french": "peut-être", "german": "vielleicht", "sentence": "___ il pleuvra demain.", "answer": "peut-être" },
+  { "id": "ca-marche", "french": "Ça marche!", "german": "Geht klar!, Das klappt!, Okay!", "sentence": "Ça ___!", "answer": "marche" }
+]
