@@ -15,5 +15,31 @@
   { "id": "trouver-le-cadeau", "french": "trouver le cadeau", "german": "das Geschenk finden", "sentence": "Est-ce que tu peux ___?", "answer": "trouver le cadeau" },
   { "id": "appeler-lea", "french": "appeler Léa", "german": "Léa anrufen", "sentence": "Je vais ___ ce soir.", "answer": "appeler Léa" },
   { "id": "peut-etre", "french": "peut-être", "german": "vielleicht", "sentence": "___ il pleuvra demain.", "answer": "peut-être" },
-  { "id": "ca-marche", "french": "Ça marche!", "german": "Geht klar!, Das klappt!, Okay!", "sentence": "Ça ___!", "answer": "marche" }
+  { "id": "ca-marche", "french": "Ça marche!", "german": "Geht klar!, Das klappt!, Okay!", "sentence": "Ça ___!", "answer": "marche" },
+
+  { "id": "lundi", "french": "lundi", "german": "Montag", "sentence": "Le cours de sport est le ___.", "answer": "lundi" },
+  { "id": "mardi", "french": "mardi", "german": "Dienstag", "sentence": "Nous allons à la piscine le ___.", "answer": "mardi" },
+  { "id": "mercredi", "french": "mercredi", "german": "Mittwoch", "sentence": "Le ___, je n'ai pas d'école l'après-midi.", "answer": "mercredi" },
+  { "id": "jeudi", "french": "jeudi", "german": "Donnerstag", "sentence": "Le ___, nous mangeons à la cantine.", "answer": "jeudi" },
+  { "id": "vendredi", "french": "vendredi", "german": "Freitag", "sentence": "___, c'est bientôt le week-end!", "answer": "vendredi" },
+  { "id": "samedi", "french": "samedi", "german": "Samstag", "sentence": "Le ___, je joue au foot.", "answer": "samedi" },
+  { "id": "dimanche", "french": "dimanche", "german": "Sonntag", "sentence": "Le ___, nous rendons visite à grand-mère.", "answer": "dimanche" },
+
+  { "id": "janvier", "french": "janvier", "german": "Januar", "sentence": "En ___, il fait très froid.", "answer": "janvier" },
+  { "id": "fevrier", "french": "février", "german": "Februar", "sentence": "___ est le mois le plus court.", "answer": "février" },
+  { "id": "mars", "french": "mars", "german": "März", "sentence": "Le printemps commence en ___.", "answer": "mars" },
+  { "id": "avril", "french": "avril", "german": "April", "sentence": "En ___, il pleut souvent.", "answer": "avril" },
+  { "id": "mai", "french": "mai", "german": "Mai", "sentence": "En ___, les fleurs poussent.", "answer": "mai" },
+  { "id": "juin", "french": "juin", "german": "Juni", "sentence": "L'école se termine en ___.", "answer": "juin" },
+  { "id": "juillet", "french": "juillet", "german": "Juli", "sentence": "En ___, nous partons en vacances.", "answer": "juillet" },
+  { "id": "aout", "french": "août", "german": "August", "sentence": "En ___, il fait très chaud.", "answer": "août" },
+  { "id": "septembre", "french": "septembre", "german": "September", "sentence": "L'école recommence en ___.", "answer": "septembre" },
+  { "id": "octobre", "french": "octobre", "german": "Oktober", "sentence": "En ___, les feuilles tombent.", "answer": "octobre" },
+  { "id": "novembre", "french": "novembre", "german": "November", "sentence": "En ___, les jours sont courts.", "answer": "novembre" },
+  { "id": "decembre", "french": "décembre", "german": "Dezember", "sentence": "Noël, c'est en ___.", "answer": "décembre" },
+
+  { "id": "printemps", "french": "le printemps", "german": "der Frühling", "sentence": "Au ___, il pleut beaucoup.", "answer": "printemps" },
+  { "id": "ete", "french": "l'été", "german": "der Sommer", "sentence": "En ___, il fait chaud.", "answer": "été" },
+  { "id": "automne", "french": "l'automne", "german": "der Herbst", "sentence": "En ___, les feuilles tombent.", "answer": "automne" },
+  { "id": "hiver", "french": "l'hiver", "german": "der Winter", "sentence": "En ___, il neige.", "answer": "hiver" }
 ]
